@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> ليل ورا ليل وعيوني بتناديك
+> نار الشوق بتدفي روحي فيك
+> قلبي دايب من سحرك والأماني
+> قولي بس مش هشوفك تاني؟
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
