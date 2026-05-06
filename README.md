@@ -13,6 +13,7 @@
 | Lyric Writing Date | May 02, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/mosh-hashoufak-tani/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [License this song: Mosh Hashoufak Tani](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
