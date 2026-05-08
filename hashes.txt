@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mosh Hashoufak Tani
+
+This log tracks the cryptographic history and versioning for the song **Mosh Hashoufak Tani** (mosh-hashoufak-tani).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T22:44:04.302042 | `v1` | `adb21fdfb269e8cb76401d4dbc2080c9b0f4c0469ac48c9bb0e70f23f81685ff` | `8b4dca2a41b15221ed1db0ca1880d4925b63e315fa60575cec52c5661613e25a` | `2026-05-08_mosh-hashoufak-tani-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
